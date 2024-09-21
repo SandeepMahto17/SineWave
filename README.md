@@ -1,2 +1,14 @@
-<h2>Sine Wave Animation</h2>
+<h1>Sine Wave Animation</h1>
 <p>An animated sine wave that moves horizontally as the animation progresses</p>
+
+## Requirements
+
+Python
+
+## Installation
+
+Install pygame
+
+```bash
+  pip install matplotlib
+```
