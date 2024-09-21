@@ -12,3 +12,7 @@ Install pygame
 ```bash
   pip install matplotlib
 ```
+RUN
+```bash
+  python SineWaveAnimation.py
+```
